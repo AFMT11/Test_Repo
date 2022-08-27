@@ -10,7 +10,10 @@ char Is_Even(int a)
 }
 int DIV_Variables(int a, int b)
 {
-    return a/b;
+    if(b)
+        return a/b;
+    else
+        return -1;
 }
 
 

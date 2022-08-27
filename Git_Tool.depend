@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
-1661591363 source:e:\atef\nasr 43\git_tool\arm.c
+1661591758 source:e:\atef\nasr 43\git_tool\arm.c
 
-1661591393 source:e:\atef\nasr 43\git_tool\main.c
+1661591779 source:e:\atef\nasr 43\git_tool\main.c
 	<stdio.h>
 	<stdlib.h>
 	"ARM.h"
